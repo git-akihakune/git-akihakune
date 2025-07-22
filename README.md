@@ -19,12 +19,6 @@
 
 <br/>
 
-## Contact
-<p>
-  <a href="mailto:akihakune@gmail.com"><img alt="mail" width="70" src="static/mail.svg"></a>
-  <a href="https://twitter.com/akihakune"><img alt="twitter" width="70" src="static/twitter.svg"></a>
-</p>
-
 ## My Github stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git-akihakune&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
